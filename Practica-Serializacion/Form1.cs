@@ -244,7 +244,7 @@ namespace Practica_Serializacion
             string Nombre = lector.ReadString();
             string Apellido = lector.ReadString();
 
-            MessageBox.Show(string.Format("Hola {0} {1}", Nombre, Apellido));
+            MessageBox.Show(string.Format("Hola {0} {1},Bienvenido", Nombre, Apellido));
 
         }
     }
