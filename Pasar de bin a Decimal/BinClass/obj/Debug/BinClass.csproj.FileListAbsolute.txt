@@ -1,6 +1,0 @@
-C:\Users\Aimara\source\repos\Pasar de bin a Decimal\BinClass\bin\Debug\BinClass.dll
-C:\Users\Aimara\source\repos\Pasar de bin a Decimal\BinClass\bin\Debug\BinClass.pdb
-C:\Users\Aimara\source\repos\Pasar de bin a Decimal\BinClass\obj\Debug\BinClass.csprojAssemblyReference.cache
-C:\Users\Aimara\source\repos\Pasar de bin a Decimal\BinClass\obj\Debug\BinClass.csproj.CoreCompileInputs.cache
-C:\Users\Aimara\source\repos\Pasar de bin a Decimal\BinClass\obj\Debug\BinClass.dll
-C:\Users\Aimara\source\repos\Pasar de bin a Decimal\BinClass\obj\Debug\BinClass.pdb
