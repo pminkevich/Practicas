@@ -1,0 +1,10 @@
+C:\Users\Aimara\Desktop\Pablo\Git\Practicas\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.deps.json
+C:\Users\Aimara\Desktop\Pablo\Git\Practicas\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.json
+C:\Users\Aimara\Desktop\Pablo\Git\Practicas\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\Aimara\Desktop\Pablo\Git\Practicas\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\Users\Aimara\Desktop\Pablo\Git\Practicas\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+C:\Users\Aimara\Desktop\Pablo\Git\Practicas\ConsoleApp1\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Aimara\Desktop\Pablo\Git\Practicas\ConsoleApp1\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Aimara\Desktop\Pablo\Git\Practicas\ConsoleApp1\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\Users\Aimara\Desktop\Pablo\Git\Practicas\ConsoleApp1\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb
+C:\Users\Aimara\Desktop\Pablo\Git\Practicas\ConsoleApp1\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csprojAssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\Bioxor\source\repos\WebApplication1\PersonaForm\bin\Debug\PersonaForm.exe.config
+C:\Users\Bioxor\source\repos\WebApplication1\PersonaForm\bin\Debug\PersonaForm.exe
+C:\Users\Bioxor\source\repos\WebApplication1\PersonaForm\bin\Debug\PersonaForm.pdb
+C:\Users\Bioxor\source\repos\WebApplication1\PersonaForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bioxor\source\repos\WebApplication1\PersonaForm\bin\Debug\Vse.Web.Serialization.dll
+C:\Users\Bioxor\source\repos\WebApplication1\PersonaForm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bioxor\source\repos\WebApplication1\PersonaForm\bin\Debug\Vse.Web.Serialization.pdb
+C:\Users\Bioxor\source\repos\WebApplication1\PersonaForm\obj\Debug\PersonaForm.csprojAssemblyReference.cache
+C:\Users\Bioxor\source\repos\WebApplication1\PersonaForm\obj\Debug\PersonaForm.Form1.resources
+C:\Users\Bioxor\source\repos\WebApplication1\PersonaForm\obj\Debug\PersonaForm.Properties.Resources.resources
+C:\Users\Bioxor\source\repos\WebApplication1\PersonaForm\obj\Debug\PersonaForm.csproj.GenerateResource.cache
+C:\Users\Bioxor\source\repos\WebApplication1\PersonaForm\obj\Debug\PersonaForm.csproj.CoreCompileInputs.cache
+C:\Users\Bioxor\source\repos\WebApplication1\PersonaForm\obj\Debug\PersonaForm.csproj.CopyComplete
+C:\Users\Bioxor\source\repos\WebApplication1\PersonaForm\obj\Debug\PersonaForm.exe
+C:\Users\Bioxor\source\repos\WebApplication1\PersonaForm\obj\Debug\PersonaForm.pdb
