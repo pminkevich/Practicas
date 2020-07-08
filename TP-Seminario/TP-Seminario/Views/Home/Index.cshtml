@@ -1,0 +1,20 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center ">
+  
+    <br />
+   <div class="form-group ">
+       <div class="img-responsive">
+           <img src="~/img/logo.png" />
+       </div>
+           <br />
+           <form asp-controller="ShowSerie" asp-action="Index">
+               <p>
+                  <input type="text" name="busqueda">
+                   <input type="submit" class="btn btn-primary" value="Buscar" />
+               </p>
+           </form>
+   </div>
+</div>

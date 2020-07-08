@@ -1,0 +1,40 @@
+﻿@model TP_Seminario.Models.Listseries
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+
+<h1>@ViewBag.titulo</h1>
+<div>
+    <h4>@Html.DisplayFor(model => model.Nombre)</h4>
+    <hr />
+    <dl class="row">
+
+
+        <dd class="col-sm-4">
+            <img src="@Html.DisplayFor(model => model.Tapa)" />
+        </dd>
+
+        <dd class="col-sm-4">
+            @Html.DisplayFor(model => model.Descripcion)
+        </dd>
+
+        <dt class="col-sm-1">
+            @Html.DisplayNameFor(model => model.Vistas)
+        </dt>
+        <dd class="col-sm-1">
+            @Html.DisplayFor(model => model.Vistas)
+        </dd>
+        <dt class="col-sm-1">
+            @Html.DisplayNameFor(model => model.Puntos)
+        </dt>
+        <dd class="col-sm-1">
+            @Html.DisplayFor(model => model.Puntos)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
