@@ -41,8 +41,9 @@ namespace TP_Seminario.Controllers
         }
 
         // GET: Tiposeries/Create
-        public IActionResult Create()
+        public async Task<IActionResult> Create()
         {
+            ViewBag.listaSeries = await _context.Tiposerie.ToListAsync();
             return View();
         }
 
@@ -55,6 +56,9 @@ namespace TP_Seminario.Controllers
         {
             if (ModelState.IsValid)
             {
+                listseries.Puntos = 0;
+                listseries.Vistas = 0;
+
                 _context.Add(listseries);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
@@ -69,7 +73,7 @@ namespace TP_Seminario.Controllers
             {
                 return NotFound();
             }
-
+            ViewBag.listaSeries = await _context.Tiposerie.ToListAsync();
             var listseries = await _context.Listseries.FindAsync(id);
             if (listseries == null)
             {
@@ -110,6 +114,7 @@ namespace TP_Seminario.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
+            ViewBag.listaSeries = await _context.Tiposerie.ToListAsync();
             return View(listseries);
         }
 

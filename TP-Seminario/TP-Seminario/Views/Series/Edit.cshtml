@@ -2,6 +2,7 @@
 
 @{
     ViewData["Title"] = "Edit";
+    List<TP_Seminario.Models.Tiposerie> tipoSerie = ViewBag.listaSeries;
 }
 
 <h1>Edit</h1>
@@ -29,9 +30,25 @@
                 <span asp-validation-for="Descripcion" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Idtipo" class="control-label"></label>
-                <input asp-for="Idtipo" class="form-control" />
-                <span asp-validation-for="Idtipo" class="text-danger"></span>
+                <label class="control-label">Tipo</label>
+
+                <select asp-for="Idtipo" name="Idtipo">
+
+                    @foreach (var item in tipoSerie)
+                    {
+                        if (item.Id == Model.Id)
+                        {
+                            <option  value="@item.Id" selected>@item.Tipo</option>
+                        }
+                        else
+                        {
+                            <option value="@item.Id">@item.Tipo</option>
+                        }
+
+                    }
+
+
+                </select>
             </div>
             <div class="form-group">
                 <label asp-for="Vistas" class="control-label"></label>
